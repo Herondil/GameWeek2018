@@ -14,6 +14,11 @@ Certains jeux sont jouables en ligne, cliquez sur le nom !
 
 [jelly 2](http://www.stencyl.com/game/play/38821)
 
+
+
+
 [Pong Lenis Game 2 joueurs](http://www.stencyl.com/game/play/38820)
 
 [Pong Lenis Game 4 joueurs](http://www.stencyl.com/game/play/38822)
+
+Seul ou avec un partenaire, gagner le maximum de point pour battre votre adversaire !
